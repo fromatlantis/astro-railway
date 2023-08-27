@@ -1,6 +1,6 @@
 # Astro Build Project Deployed on Railway
 
-This repository contains an Astro build project, deployed on Railway. It serves as an example to showcase how simple and efficient deploying to Railway can be.
+This repository contains an Astro build project, deployed on Railway. It serves as an example to showcase how simple and efficient deploying to Railway can be to get started using the railway CLI. Please note you can use the github integration easily but I wanted to explore the CLI.
 
 ## Why Railway?
 
